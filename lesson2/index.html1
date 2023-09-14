@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./css/style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans:wght@100;400&display=swap" rel="stylesheet">
+    <title>Clerksy</title>
+</head>
+<body>
+<header class="header">
+    <div class="container">
+
+        <div class="header__wrap">
+            <img src="./img/logo.svg" alt="logo">
+                <div class="header__block">
+                    <ul class="header__menu">
+                        <li class="header__item">
+                            <a href="#">Log In</a>
+                        </li>
+                        <li class="header__item">
+                            <a href="tel:8443326440">844-332-6440</a>
+                        </li>
+                        <li class="header__item header__item_g">
+                            <a href="#">Get Started</a>
+                        </li>
+                
+                    </ul>
+                </div>
+        </div>
+    </div>
+</header>
+    <section class="intro">
+
+        <div class="container">
+
+            <div class="intro__wrap">
+
+                <div class="intro__texts">
+                    <h1 class="title title_w intro__title">Running the show has never been so easy.</h1>
+                    <p class="text text_w intro__text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque eum obcaecati inventore quisquam ipsam laudantium itaque velit maiores, illo quaerat adipisci nostrum, minus doloribus voluptatem aut sunt officia necessitatibus quidem.</p>
+
+                    
+
+                </div>
+                <div class="intro__pic">
+                    <img src="./img/men.svg" alt="men">
+
+                </div>
+
+            </div>
+
+        </div>
+
+    </section>
+
+    <section class="hr">
+        <div class="container">
+            <div class="hr__block">
+                <div class="hr__pic">
+                    <img src="./img/picture1.svg" alt="picture1">
+                </div>
+                <div class="hr__texts">
+                    <h2 class="title hr__title">
+                        Put the human back in HR
+                    </h2>
+                    <p class="text hr_text">
+                        Lorem ipsum dolor sit amet consecteturm adipisicing elit. Ratione sunt est voluptatibus numquam minima?
+
+                    </p>
+                
+                </div>
+            </div>
+
+            <div class="hr__block">
+                
+                <div class="hr__texts">
+                    <h2 class="title hr__title">
+                        Put the human back in HR
+                    </h2>
+                    <p class="text hr_text">
+                        Lorem ipsum dolor sit amet consecteturm adipisicing elit. Ratione sunt est voluptatibus numquam minima?
+                    </p>
+                    
+                </div>
+                <div class="hr__pic">
+                    <img src="./img/picture2.svg" alt="picture2">
+                </div>
+            </div>
+        </div>
+    </section>
+<section class="hq">
+    <div class="container">
+        <h2 class="title title_w hq__title">
+            HR Production of the highest quality
+        </h2>
+        <div class="hq__row">
+            <div class="hq__card">
+                <img src="./img/Frame.svg" alt="icon">
+                <p class="text text_w hq__text">
+                    Educates & Informs <br> Employee Experrations
+                </p>
+            </div>
+            <div class="hq__card">
+                <img src="./img/Frame.svg" alt="icon">
+                <p class="text text_w hq__text">
+                    Educates & Informs <br> Employee Experrations
+                </p>
+            </div>
+            <div class="hq__card">
+                <img src="./img/Frame.svg" alt="icon">
+                <p class="text text_w hq__text">
+                    Educates & Informs <br> Employee Experrations
+                </p>
+            </div>
+            <div class="hq__card">
+                <img src="./img/Frame.svg" alt="icon">
+                <p class="text text_w hq__text">
+                    Educates & Informs <br> Employee Experrations
+                </p>
+            </div>
+        </div>
+    </div>
+</section>
+
+
+<section class="ty">
+    <div class="container">
+        <div class="ty__block">
+            <div class="ty__pic">
+                <img src="./img/characters.svg" alt="characters">
+            </div>
+            <div class="ty__texts">
+                <h2 class="title ty__title">
+                    Put the human back in HR
+                </h2>
+                <p class="text ty_text">
+                    Lorem ipsum dolor sit amet consecteturm adipisicing elit. Ratione sunt est voluptatibus numquam minima?
+
+                </p>
+            
+            </div>
+        </div>
+
+</section>
+</body>
+</html>
